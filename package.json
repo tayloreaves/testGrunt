@@ -1,0 +1,20 @@
+{
+  "name": "testgrunt",
+  "version": "1.0.0",
+  "description": "this is teaching us how to use node ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "grunt",
+    "node",
+    "automation",
+    "testing"
+  ],
+  "author": "Taylor",
+  "license": "MIT",
+  "dependencies": {
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
